@@ -1,6 +1,6 @@
 # Temperature Converter README
 
-Welcome to the README for the Temperature Converter HTML template! This document provides an overview of the Temperature Converter web application and its features.
+Welcome to the README for the Temperature Converter! This document provides an overview of the Temperature Converter web application and its features.
 
 ## Table of Contents
 
